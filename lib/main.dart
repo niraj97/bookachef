@@ -21,7 +21,7 @@ class HomeScreen extends StatelessWidget {
             ),
 //          leading: InkWell(
 //            onTap: () {
-//              //doaction
+//              //do action here
 //            },
 //            child: Icon(Icons.menu),
 //          ),
